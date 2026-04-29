@@ -13,4 +13,6 @@
 **Personal knowledge base:** `/Users/cimaf/Claude/Knowledge Bases/Personal - Franco` — read `wiki/index.md` for Franco's background and context.
 
 **Pending:**
-- Build first automation workflow end-to-end
+- Build first automation workflow end-to-end (add `ANTHROPIC_API_KEY` to `.env` first to test agents)
+- Set up Supabase backend for memory if desired (replace local markdown)
+- Copy `agents/_template/` when first real subagent is needed
