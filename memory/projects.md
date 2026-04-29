@@ -10,7 +10,7 @@
 
 **Stack:** Python, Claude API, Gmail, Google Drive, Supabase, PostHog, BigQuery
 
-**Personal knowledge base:** `/Users/cimaf/Claude/Knowledge Bases/Personal - Franco` — read `wiki/index.md` for Franco's background and context.
+**Personal knowledge base:** `/Users/cimaf/Claude/Knowledge Bases/AI Brain` — read `wiki/index.md` for Franco's background and context.
 
 **Pending:**
 - Build first automation workflow end-to-end (add `ANTHROPIC_API_KEY` to `.env` first to test agents)

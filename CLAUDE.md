@@ -32,7 +32,7 @@ Run `/startup` at the beginning of every session to load context. Run `/wrapup` 
 ## Personal Knowledge Base
 
 Franco's personal wiki lives at:
-`/Users/cimaf/Claude/Knowledge Bases/Personal - Franco`
+`/Users/cimaf/Claude/Knowledge Bases/AI Brain`
 
 Read its `claude.md` for operating instructions. When you need context about Franco (background, career, skills, goals, history), start with `wiki/index.md` then read relevant pages.
 

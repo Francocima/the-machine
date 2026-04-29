@@ -14,5 +14,5 @@
 
 ## References
 
-- Personal wiki: `/Users/cimaf/Claude/Knowledge Bases/Personal - Franco` — start at `wiki/index.md`
+- Personal wiki: `/Users/cimaf/Claude/Knowledge Bases/AI Brain` — start at `wiki/index.md`
 - WAT framework rules: `wat_claude.md` at project root

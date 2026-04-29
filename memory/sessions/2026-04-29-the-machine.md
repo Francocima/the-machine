@@ -16,7 +16,7 @@ Full project scaffold built from a nearly empty repo. Aligned the structure to t
 - Created `.claude/settings.json` — Claude Code permissions for Python/shell ops
 - Created `tools/README.md` and `workflows/README.md` — convention guides
 - Created `.tmp/.gitkeep` — disposable temp folder, gitignored
-- Connected Obsidian personal wiki via CLAUDE.md reference (path: `/Users/cimaf/Claude/Knowledge Bases/Personal - Franco`)
+- Connected Obsidian personal wiki via CLAUDE.md reference (path: `/Users/cimaf/Claude/Knowledge Bases/AI Brain`)
 - Created `memory/projects.md`, `memory/rules.md`, `memory/sessions/` — local markdown backend for startup/wrapup
 - Created `agents/README.md` — subagent conventions
 - Created `agents/_template/system_prompt.md` — starter prompt structure
@@ -46,7 +46,7 @@ Full project scaffold built from a nearly empty repo. Aligned the structure to t
 
 ## Data discovered
 
-- Personal wiki path: `/Users/cimaf/Claude/Knowledge Bases/Personal - Franco`
+- Personal wiki path: `/Users/cimaf/Claude/Knowledge Bases/AI Brain`
 - GitHub remote: https://github.com/Francocima/the-machine.git
 - Initial scaffold commit: `6537add`
 - `.env.example` keys: `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, `POSTHOG_API_KEY`, `POSTHOG_PROJECT_ID`, `GOOGLE_APPLICATION_CREDENTIALS`

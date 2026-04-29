@@ -21,5 +21,5 @@
 ## Context about Franco
 
 Franco Cima is a growth marketing manager and AI automation expert. His personal wiki is at:
-`/Users/cimaf/Claude/Knowledge Bases/Personal - Franco`
+`/Users/cimaf/Claude/Knowledge Bases/AI Brain`
 Read `wiki/index.md` if you need personal context to complete the task.
